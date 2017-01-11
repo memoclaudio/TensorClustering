@@ -7,4 +7,4 @@ The following dependencies (not provided in the jar file) are needed:
 - [HyperDrive](https://github.com/adamierymenko/hyperdrive/blob/master/hyperdrive.jar)
 - [Apache Commons Lang](http://apache.belnet.be//commons/lang/binaries/commons-lang3-3.5-bin.tar.gz) 
 
-Description of the classes and functions are available <a href="http://tinyurl.com/stamile/tCluster/doc/" target="_blank">here</a>
+JavaDoc is available here <a href="http://tinyurl.com/stamile/tCluster/doc/" target="_blank">here</a>
