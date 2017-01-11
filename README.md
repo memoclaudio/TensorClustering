@@ -1,4 +1,7 @@
 # TensorClustering
+
+The program solves the clustering problem using ALS algorithm. It uses the CPLEX [Mixed Integer Programming (MIP)](http://www.ibm.com/support/knowledgecenter/ko/SSSA5P_12.6.1/ilog.odms.cplex.help/CPLEX/UsrMan/topics/discr_optim/mip/01_mip_title_synopsis.html) solver to solve the optimization problem at each ALS iteration.
+
 ![equation](http://162.243.212.184/varia/clustTens.png)
 
 The following dependencies (not provided in the jar file) are needed:
